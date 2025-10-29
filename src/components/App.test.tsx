@@ -3,9 +3,9 @@ import { describe, it, expect } from 'vitest'
 import App from './App'
 
 describe('App', () => {
-  it('renders Daphne heading', () => {
+  it('renders Daphne logo', () => {
     render(<App />)
-    expect(screen.getByText('Daphne')).toBeInTheDocument()
+    expect(screen.getByAltText('Daphne')).toBeInTheDocument()
   })
 
   it('renders subtitle', () => {
