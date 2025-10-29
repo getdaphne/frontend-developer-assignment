@@ -1,0 +1,42 @@
+[
+  {
+    "email": "ann@daphne.com",
+    "isSelected": false
+  },
+  {
+    "email": "bob@daphne.com",
+    "isSelected": false
+  },
+  {
+    "email": "alice@daphne.com",
+    "isSelected": false
+  },
+  {
+    "email": "brian@techcorp.io",
+    "isSelected": true
+  },
+  {
+    "email": "james@techcorp.io",
+    "isSelected": false
+  },
+  {
+    "email": "sarah@techcorp.io",
+    "isSelected": false
+  },
+  {
+    "email": "jane@innovate.co",
+    "isSelected": false
+  },
+  {
+    "email": "kate@innovate.co",
+    "isSelected": true
+  },
+  {
+    "email": "mike@startup.dev",
+    "isSelected": true
+  },
+  {
+    "email": "emily@startup.dev",
+    "isSelected": false
+  }
+]
